@@ -9,18 +9,6 @@ Press 'e' to evaluate circuit
 
 Press 'r' to reset circuit
 
-Press 'l' to load circuit
-
-  //Load Circuit Commands
-  
-  Enter 'DJ' for Deutsch-Jozsa 
-  
-  Enter 'BS' for Bell-State
-  
-  Enter 'GR' for Grover's Algorithm
-  
-  Enter 
-
 Press 'a' to add gate
 
   //Gate Commands
@@ -42,3 +30,12 @@ Press 'a' to add gate
   Enter 'CN' for Control Note Gate
   
   Enter 'SS' for Swap Gate
+  
+ 
+ Press 'l' to load circuit
+
+   //Load Circuit Commands
+  
+   Enter 'BS' for Bell-State
+  
+   Enter 'DJ' for Deutsch-Jozsa 
