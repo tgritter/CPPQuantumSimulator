@@ -1,7 +1,7 @@
 # CPPQuantumSimulator
 A Command Line Quantum Simulator Built in C++
 
-![Screenshot](https://drive.google.com/file/d/1LoinIwDJ-10Td88BE5N8izkLCdCPbILK/view?usp=sharing)
+![Screenshot](https://s3-us-west-2.amazonaws.com/resumeimages/QuantumSimulator.png)
 
 //Instructions
 
